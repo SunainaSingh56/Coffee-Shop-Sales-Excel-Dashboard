@@ -55,7 +55,13 @@ manual tracking with no unified reporting system.
   *loyalty programs could improve repeat visits*
 
 ---
+## 📁 Repository Structure
+Coffee-Shop-Sales-Dashboard/
+├── Data/          → Raw Excel transactions data
+├── Dashboard/     → Final Excel .xlsx dashboard file
+└── README.md
 
+---
 ## 🖼️ Dashboard Preview
 
 
@@ -65,18 +71,11 @@ manual tracking with no unified reporting system.
 
 ---
 
-## 🤝 Connect with Me
+## 📫 Connect with Me
 
-[
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunainasinghda-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sunainasinghda)
+[![GitHub](https://img.shields.io/badge/GitHub-SunainaSingh56-181717?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)**
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-SunainaSingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/sunainasingh0a)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-SunainaSingh56-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/SunainaSingh56)
 ---
 
-## 📁 Repository Structure
+
