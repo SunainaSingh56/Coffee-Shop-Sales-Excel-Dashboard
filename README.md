@@ -18,8 +18,8 @@ manual tracking with no unified reporting system.
 
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logoColor=yellow)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logoColor=white)
 
 ---
 
