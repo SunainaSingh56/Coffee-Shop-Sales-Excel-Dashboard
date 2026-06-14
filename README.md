@@ -55,13 +55,17 @@ manual tracking with no unified reporting system.
   *loyalty programs could improve repeat visits*
 
 ---
+
 ## 📁 Repository Structure
----
+
+
 Coffee-Shop-Sales-Dashboard/
-├── 📂 Data/             → Raw Excel transactions data  
-├──  Dashboard/           → Final Excel .xlsx dashboard file
-└── 📄 README.md/
+├── Data/            → Raw Excel transactions data
+├── Dashboard/       → Final Excel .xlsx dashboard file
+└── README.md
+
 ---
+
 ## 🖼️ Dashboard Preview
 
 
