@@ -1,5 +1,3 @@
-# Coffee-Shop-Sales-Excel-Dashboard
-Excel dashboard for Coffee Shop Sales | $698K revenue | 149K footfall | Pivot Tables, KPI Cards &amp; Dynamic Slicers
 # ☕ Coffee Shop Sales Dashboard
 
 ## 📊 Overview
@@ -20,18 +18,8 @@ manual tracking with no unified reporting system.
 
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
-
-
 ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge)
-
-
-
-
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-
-
 
 ---
 
